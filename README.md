@@ -1,4 +1,5 @@
 # flutter expense tracker
+![Simulator Screen Shot - iPhone 14 Pro - 2023-08-08 at 17 47 00](https://github.com/jagnesh/flutter-expense-tracker/assets/6381879/9a98a74a-e6a5-40f7-89b7-e669a3e6c110)
 
 A new Flutter project.
 
